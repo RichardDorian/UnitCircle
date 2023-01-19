@@ -1,0 +1,16 @@
+*.o
+*.tar
+*.tmp
+*.log
+*.P
+*.Po
+*.Plo
+*.a
+*.lo
+*.la
+*.lai
+**/autom4te.cache/
+**/config.status
+*.pc
+**/libtool
+**/aclocal.m4
